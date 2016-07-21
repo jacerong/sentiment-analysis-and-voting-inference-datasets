@@ -15,11 +15,11 @@ Opinion polls were filtered by their survey period in order that they correspond
 8. lopez (Clara López): _see notes below_.
 9. penalosa (Enrique Peñalosa): _see notes below_.
 10. blank (vote): _see notes below_.
-11. undecised (voters): _see notes below_.
+11. undecided (voters): _see notes below_.
 12. source.
 
 #### Notes.
-1. The value corresponds to the voting share the candidate/electoral option would receive according to the poll.
+1. The column value corresponds to the voting share the candidate/electoral option would receive according to the poll.
 2. All values are given in percentages.
 3. The decimal separator character used is the dot (.).
 4. The "-1.00" value (with no quotes) is used as wildcard, which means discarding the column value.
